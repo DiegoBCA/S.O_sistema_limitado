@@ -1,7 +1,6 @@
 
 # Sistema de Acceso Limitado a Página Web
-## Universidad de las Américas Puebla (UDLAP)
-### Sistemas Operativos · P26-LIS2062-1
+### Sistemas Operativos 
 
 
 
