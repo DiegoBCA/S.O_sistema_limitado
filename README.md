@@ -1,11 +1,9 @@
-# S.O_sistema_limitado
+
 # Sistema de Acceso Limitado a Página Web
 ## Universidad de las Américas Puebla (UDLAP)
 ### Sistemas Operativos · P26-LIS2062-1
 
-**Integrantes:**
-- Daniel de Jesús Martínez Gallegos
-- Diego Bedolla Carrillo
+
 
 ---
 
